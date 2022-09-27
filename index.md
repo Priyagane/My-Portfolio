@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/Priyagane/talking_data_Bagging_and_Boosting.ipynb)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/Priyagane/Talking_data_Bagging_and_Boosting.git)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
