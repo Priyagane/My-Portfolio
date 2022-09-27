@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 96% accuracy using Logistic Regression and SMOTE .
+**Quantifiable result:** We could Classify the type of tumor resulting in 85% accuracy using Logistic Regression and SMOTE .
 
 - in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
@@ -95,7 +95,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
 
-[**AUC** Score of 88%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
+[**AUC** Score of 94%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
 - A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
@@ -112,7 +112,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <b>Quantifiable Results:</b>
 
-  - Loss = 0.0273 - 0.9916 = Final Model Eval =99.16%
+  - Loss = 0.0273  = Final Model Eval =99.16%
   - Load the data
   - Initial data indagation
   - Initial EDA
