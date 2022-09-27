@@ -85,7 +85,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/Priyagane/NLP_amz.ipynb)
+[Amazon Fine Food Analysis using NLP](https://github.com/Priyagane/NLP-amz..git)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
