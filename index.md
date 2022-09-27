@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of user interest using bank data](https://github.com/Priyagane/Logistic_regression_excercise.ipynb)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -30,14 +30,14 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE .
+**Quantifiable result:** We could Classify the type of tumor resulting in 96% accuracy using Logistic Regression and SMOTE .
 
 - in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Priyagane/1_Knn_Nb_Project.ipynb)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -45,7 +45,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 85.48% .
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/Priyagane/talking_data_Bagging_and_Boosting.ipynb)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
@@ -61,7 +61,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -69,7 +69,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Project on Clustering](https://github.com/maielhadad99/Clustring_Project.git)
+[The San Francisco Project on Clustering](https://github.com/Priyagane/k_mean_project.ipynb)
 
 <img src="images/clusters.png?raw=true"/>
 
@@ -85,7 +85,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
+[Amazon Fine Food Analysis using NLP](https://github.com/Priyagane/NLP_amz.ipynb)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
@@ -102,7 +102,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Priyagane/MNIST_handwritten_classification_project1.ipynb)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
@@ -112,7 +112,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <b>Quantifiable Results:</b>
 
-  - Loss = 0.037 - 0.9909 = Final Model Eval = 99.0899%
+  - Loss = 0.0273 - 0.9916 = Final Model Eval =99.16%
   - Load the data
   - Initial data indagation
   - Initial EDA
@@ -125,7 +125,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying the people having diabetes ](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
+[Identifying the people having diabetes ](https://github.com/Priyagane/)
 
 <img src="images/Diabetes.jpg?raw=true"/>
 
