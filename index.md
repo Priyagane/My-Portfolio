@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/Priyagane/Logistic_regression_excercise.ipynb)
+[Prediction of user interest using bank data](https://github.com/Priyagane/UCI-Bank-Project.git)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -37,7 +37,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Priyagane/1_Knn_Nb_Project.ipynb)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/Priyagane/Knn_Nb_Orthopedic_Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -69,7 +69,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Project on Clustering](https://github.com/Priyagane/k_mean_project.ipynb)
+[The San Francisco Project on Clustering](https://github.com/Priyagane/Talking_data_Bagging_and_Boosting.git)
 
 <img src="images/clusters.png?raw=true"/>
 
@@ -95,14 +95,14 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
 
-[**AUC** Score of 94%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
+[**AUC** Score of 94%](https://github.com/Priyagane/NLP-amz./blob/main/NLP_amz.ipynb) .
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
 - A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Priyagane/MNIST_handwritten_classification_project1.ipynb)
+[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/Priyagane/Deeplearning.git)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
